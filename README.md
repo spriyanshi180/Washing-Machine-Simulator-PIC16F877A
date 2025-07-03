@@ -58,6 +58,7 @@ Buzzer, Fan, LED outputs Door switch check
 ## 📁 Folder Structure
 
 Washing-Machine-Simulator-PIC16F877A/
+
 ├── src/ → .c source files
 
 ├── include/ → .h header files
@@ -105,6 +106,7 @@ If you have any questions or want to collaborate:
 
 **GitHub:** [@spriyanshi180](https://github.com/spriyanshi180)  
 **LinkedIn:** [@spriyanshi180](http://www.linkedin.com/in/spriyanshi180)
+
 **Email:** spriyanshi180@gmail.com
 
 ---
