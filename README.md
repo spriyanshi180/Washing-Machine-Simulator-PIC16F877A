@@ -98,7 +98,7 @@ Washing-Machine-Simulator-PIC16F877A/
 If you have any questions or want to collaborate:
 
 **GitHub:** [@spriyanshi180](https://github.com/spriyanshi180)  
-**LinkedIn:** http://www.linkedin.com/in/spriyanshi180
+**LinkedIn:** [http://www.linkedin.com/in/spriyanshi180)
 **Email:** spriyanshi180@gmail.com
 
 ---
