@@ -59,11 +59,17 @@ Buzzer, Fan, LED outputs Door switch check
 
 Washing-Machine-Simulator-PIC16F877A/
 ├── src/ → .c source files
+
 ├── include/ → .h header files
+
 ├── hex/ → compiled .hex for simulation
+
 ├── nbproject/ → MPLAB project config
+
 ├── dist/ → auto-generated build output
+
 ├── Makefile
+
 ├── README.md
 
 
@@ -98,7 +104,7 @@ Washing-Machine-Simulator-PIC16F877A/
 If you have any questions or want to collaborate:
 
 **GitHub:** [@spriyanshi180](https://github.com/spriyanshi180)  
-**LinkedIn:** [http://www.linkedin.com/in/spriyanshi180)
+**LinkedIn:** [@spriyanshi180](http://www.linkedin.com/in/spriyanshi180)
 **Email:** spriyanshi180@gmail.com
 
 ---
